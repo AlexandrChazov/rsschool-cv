@@ -1,0 +1,62 @@
+@import "reset.css";
+html {
+    display: flex;
+    justify-content:center;
+}
+body {
+    background-color: white;
+    font-size: large;
+    width: 1024px;
+}
+
+img {
+    margin-top: 30px;
+}
+
+.block {
+    background-color:rgb(240, 245, 196);    
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: x-large;
+    color: tomato;
+    padding: 20px;
+}
+
+dl {
+    padding-top: 50px;
+}
+
+dd {
+    padding-left: 40px;
+}
+
+.dt {
+    padding-top: 20px;
+}
+
+.item {
+    padding-left: 40px;
+}
+
+.contact {
+    display: flex;
+    align-content: space-around;
+    flex-direction: column;
+}
+
+.name1 {
+    display: flex;
+    justify-content:flex-start;
+}
+
+header {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
