@@ -1,6 +1,5 @@
 
 My Resume
-
 1. **First Name**: Alexandr, **Last Name**: Chazov
 2. **Contact Info**: 
     * Phone number: +375(29) 536-95-07
